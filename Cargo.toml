@@ -10,3 +10,5 @@ edition = "2021"
 crate-type = ["lib"]
 
 [dependencies]
+anyhow = "1.0.51"
+thiserror = "1.0.30"
