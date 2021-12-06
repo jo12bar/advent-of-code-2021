@@ -1,0 +1,12 @@
+[package]
+name = "advent-of-code-2021"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "aoc_2021"
+path = "src/lib.rs"
+edition = "2021"
+crate-type = ["lib"]
+
+[dependencies]
